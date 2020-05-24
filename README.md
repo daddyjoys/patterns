@@ -1,2 +1,3 @@
 # java_lessons_patterns
-Patterns
+## Patterns
+### Паттерн проектирования Factory

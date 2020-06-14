@@ -14,4 +14,15 @@ public class Eats {
         }
         return toReturn;
     }
+
+    /** Возвращает "случайную еду"
+     *
+     * @return Factory
+     */
+    public Factory getEatRandom(){
+        Factory toReturn = null;
+
+
+        return toReturn;
+    }
 }
